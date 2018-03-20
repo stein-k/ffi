@@ -1,0 +1,1 @@
+go build -o go/printer.so -buildmode=c-shared go/printer.go

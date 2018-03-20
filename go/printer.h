@@ -53,7 +53,7 @@ extern "C" {
 #endif
 
 
-extern GoInt Print(GoString p0);
+extern char* Print(char* p0);
 
 #ifdef __cplusplus
 }
